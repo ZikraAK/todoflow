@@ -26,8 +26,6 @@ ToDoFlow is built around three ideas to fix that:
 
 ## 📸 Demo
 
-> _Add screenshots here once you've taken them — see "How to add screenshots" below._
-
 
 ![Main window](docs/screenshot-main.png)
 ![Stats dashboard](docs/screenshot-stats.png)
